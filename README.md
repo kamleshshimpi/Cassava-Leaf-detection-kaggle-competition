@@ -11,3 +11,4 @@ the training dataset consist of 21397 images and used EfficientNetB0 for transfe
 
 As the notebook is in my kaggle account , to take a look at notebook please click on the below given link. Thank you. 
 
+[Link To The Project Notebook](https://www.kaggle.com/kamleshshimpi78/easy-cassava-leaf-disease-detection-in-keras?scriptVersionId=52829545)
